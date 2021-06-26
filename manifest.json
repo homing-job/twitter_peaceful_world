@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "twitter peaceful world",
   "version": "1.0.0",
-  "description": "全アカウントがインフルエンサーのように見えるchrome拡張機能。",
+  "description": "全twitterアカウントをインフルエンサーっぽくするgoogle拡張機能。",
   "content_scripts": [
     {
       "matches": ["https://twitter.com/*"],
