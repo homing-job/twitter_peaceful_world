@@ -2,15 +2,15 @@
 ## 全twitterアカウントをインフルエンサーっぽくするgoogle拡張機能
 | 適用前　|適用後  |
 | :----: | :----: |
-| <img src="https://user-images.githubusercontent.com/72111956/123514375-ae8c4480-d6cd-11eb-8db9-e5525f492055.png">   | <img src="https://user-images.githubusercontent.com/72111956/123514376-af24db00-d6cd-11eb-885d-490fd807e2e1.png">   |
+| <img src="https://user-images.githubusercontent.com/72111956/123514693-2dce4800-d6cf-11eb-9262-b364e323e8ce.png">   | <img src="https://user-images.githubusercontent.com/72111956/123514694-2dce4800-d6cf-11eb-87b4-d98d0af2119a.png">   |
 <br>
 
 | 適用前　|適用後  |
 | :----: | :----: |
-| <img src="https://user-images.githubusercontent.com/72111956/123514369-acc28100-d6cd-11eb-9951-14e808c40151.png">   | <img src="https://user-images.githubusercontent.com/72111956/123514371-adf3ae00-d6cd-11eb-911f-14b97f2ec029.png">   |
+| <img src="https://user-images.githubusercontent.com/72111956/123514695-2e66de80-d6cf-11eb-94f7-662912deb516.png">   | <img src="https://user-images.githubusercontent.com/72111956/123514696-2e66de80-d6cf-11eb-931a-9e6159dc3a4a.png">   |
 <br>
 
 | 適用前　|適用後  |
 | :----: | :----: |
-| <img src="https://user-images.githubusercontent.com/72111956/123514372-adf3ae00-d6cd-11eb-9a43-385e0addfe64.png">   | <img src="https://user-images.githubusercontent.com/72111956/123514374-ae8c4480-d6cd-11eb-85a1-3fe5682c0485.png">   |
+| <img src="https://user-images.githubusercontent.com/72111956/123514697-2eff7500-d6cf-11eb-8510-2a9b15d9c25c.png">   | <img src="https://user-images.githubusercontent.com/72111956/123514691-2c9d1b00-d6cf-11eb-97c9-639283f6668d.png">   |
 <br>
