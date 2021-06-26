@@ -1,2 +1,2 @@
 # twitter_peaceful_world
-平和な世界
+## 全twitterアカウントをインフルエンサーっぽくするgoogle拡張機能
